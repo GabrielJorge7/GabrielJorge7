@@ -16,9 +16,10 @@
   <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="HTML logo" height="30" width="40" src="https://img.icons8.com/color/48/000000/git.png" />
-  <img align="center" alt="HTML logo" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql.png" />
-  <img align="center" alt="HTML logo" height="30" width="40" src="https://img.icons8.com/color/48/000000/react-native.png" />
+    <img align="center" alt="Git logo" height="30" width="40" src="https://img.icons8.com/color/48/000000/git.png" />
+    <img align="center" alt="mysql logo" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql.png" />
+    <img align="center" alt="react logo" height="30" width="40" src="https://img.icons8.com/color/48/000000/react-native.png" />
+</div>
 </div>
 
 ##
