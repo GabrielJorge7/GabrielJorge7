@@ -10,12 +10,15 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="PG logo" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png">
    <img align="center" alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img src="https://img.icons8.com/color/48/000000/git.png" />
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" />
 </div>
 
 ##
@@ -23,3 +26,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-jorge-0119bb276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+<div align="center">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="width: 100%;">
+</div>
+
