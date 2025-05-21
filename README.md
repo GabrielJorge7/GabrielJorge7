@@ -1,15 +1,22 @@
 ## Bem vindo! Eu sou Gabriel Jorge.
 
-- 🔭 Sou técnico em analise em desenvolvimento de sistemas.
-- 🌱 Atualmente faço curso superior de analise e desenvolvimento de sistemas.
+
+<div align="left">
+<img height = "85px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=0000FF&v&left=true&width=600&lines=+Eu+sou+Gabriel+Jorge%2C;+Técnico+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
+</div>
+<br> <br>
 
 <div align="center">
   <a href="https://github.com/GabrielJorge7/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielJorge7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJorge7&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivioneto&layout=compact&langs_count=7&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivioneto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
 </div>
 
 <div style="display: inline_block"><br>
+ <h2 align="center">🛠️&ensp; <i>L I N G U A G E N S</i> &ensp;🛠️</h2>
   <img align="center" alt="PG logo" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png">
    <img align="center" alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
