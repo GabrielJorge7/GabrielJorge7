@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/GabrielJorge7/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJorge7&layout=compact&langs_count=7&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GabrielJorge7&show_icons=true&count_private=true&title_color=DAD3AF&icon_color=8e44ad&text_color=58a6ff&bg_color=0d1117&hide_border=true&theme=midnight-purple"/>>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJorge7&layout=compact&title_color=DAD3AF&icon_color=8e44ad&text_color=58a6ff&bg_color=0d1117&hide_border=true&theme=material-palenight"/>
 </div>
 
