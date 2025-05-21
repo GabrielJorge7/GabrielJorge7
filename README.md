@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/GabrielJorge7/">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GabrielJorge7&show_icons=true&count_private=true&title_color=e61919&icon_color=8e44ad&text_color=58a6ff&bg_color=0d1117&hide_border=true&theme=midnight-purple"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJorge7&layout=compact&title_color=e61919&icon_color=8e44ad&text_color=58a6ff&bg_color=0d1117&hide_border=true&theme=material-palenight"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJorge7&layout=compact&title_color=e61919&icon_color=8e44ad&text_color=58a6ff&bg_color=0d1117&hide_border=true&theme=material-palenight"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
