@@ -1,7 +1,7 @@
 ## Bem vindo! Eu sou Gabriel Jorge.
 
 
-<div align="left">
+<div align="center">
 <img height = "85px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=0000FF&v&left=true&width=600&lines=+Eu+sou+Gabriel+Jorge%2C;+Técnico+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
