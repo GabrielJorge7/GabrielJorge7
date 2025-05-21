@@ -3,14 +3,15 @@
 
 <div align="center">
 <img height = "85px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-
+</div>
+<div align="left">
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=0000FF&v&left=true&width=600&lines=+Eu+sou+Gabriel+Jorge%2C;+Técnico+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
 </div>
 <br> <br>
 
 <div align="center">
   <a href="https://github.com/GabrielJorge7/">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GabrielJorge7&show_icons=true&count_private=true&title_color=e61919&icon_color=8e44ad&text_color=58a6ff&bg_color=0d1117&hide_border=true&theme=midnight-purple"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=GabrielJorge7&show_icons=true&count_private=true&title_color=e61919&icon_color=8e44ad&text_color=58a6ff&bg_color=0d1117&hide_border=true&theme=midnight-purple"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJorge7&layout=compact&title_color=e61919&icon_color=8e44ad&text_color=58a6ff&bg_color=0d1117&hide_border=true&theme=material-palenight"/>
 </div>
 
