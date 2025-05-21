@@ -10,9 +10,9 @@
 
 <div align="center">
   <a href="https://github.com/GabrielJorge7/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivioneto&layout=compact&langs_count=7&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJorge7&layout=compact&langs_count=7&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivioneto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielJorge7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,7 +27,9 @@
     <img align="center" alt="react logo" height="30" width="40" src="https://img.icons8.com/color/48/000000/react-native.png" />
 </div>
 </div>
+<div align="center">
 <a href="https://www.linkedin.com/in/gabriel-jorge-0119bb276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 </div>
 
 ##
